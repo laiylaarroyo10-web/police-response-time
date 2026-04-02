@@ -1,0 +1,201 @@
+incident_id,call_date,call_time,response_time_minutes,incident_type,precinct,neighborhood,outcome
+5001,08/02/23,3:01,49,Burglary,P4,North West,No Action
+5002,05/14/2022,11:44 AM,,Theft,P3,NE,resolved
+5003,04/21/2023,8:51,57,Traffic Stop,P-1,NE,ARREST
+5004,11/20/2021,3:05,8,Noise Complaint,Precinct 3,North West,resolved
+5005,06/10/2020,2:02 AM,42,Burglary,P2,North East,Arrest
+5006,04/21/21,3:24,31,Domestic Disturbance,P-2,North West,No Action
+5007,07-24-23,5:34,12,Burglary,P4,NE,Report Taken
+5008,10-26-21,1:14,4,Domestic Disturbance,Precinct 2,NE,Report Taken
+5009,10-19-22,12:35 AM,60,Theft,P-2,South East,No Action
+5010,03/28/22,11:14,,Domestic Disturbance,P-1,South East,No Action
+5011,05/10/2020,12:24,31,Noise Complaint,Precinct 1,North East,ARREST
+5012,08/05/23,10:07,12,Burglary,P-2,N.W.,No Action
+5013,08/05/20,20:19,55,Domestic Disturbance,P4,NW,No Action
+5014,10/25/21,10:05 AM,25,Noise Complaint,Precinct 3,North West,ARREST
+5015,12-26-22,4:08,44,Theft,P3,NE,No Action
+5016,11-13-23,6:45,27,Assault,Precinct 1,NE,arrest
+5017,05/11/20,11:03 AM,39,Domestic Disturbance,Precinct 1,NW,ARREST
+5018,11/07/21,2:32,44,Burglary,Precinct 3,NE,ARREST
+5019,08-26-22,13:12,44,Assault,P1,North West,Arrest
+5020,04/04/22,8:08 AM,53,Assault,P-1,North East,resolved
+5021,05/26/21,2:28,,Theft,P1,North West,ARREST
+5022,04/29/21,1:24 AM,15,Traffic Stop,Precinct 3,North East,resolved
+5023,11/27/23,4:03 AM,47,Theft,P4,NW,Report Taken
+5024,10/04/21,1:03,39,Noise Complaint,P-1,North West,No Action
+5025,05/19/2020,21:55,17,Theft,Precinct 1,South East,Report Taken
+5026,04/10/23,18:33,18,Domestic Disturbance,P-2,SW,Resolved
+5027,05/28/2020,0:29,,Traffic Stop,P-1,SE,Arrest
+5028,05/15/2021,11:18,30,Burglary,P4,NW,Report Taken
+5029,02-09-23,2:47 AM,44,Theft,P-1,North East,Resolved
+5030,05/23/2023,6:45,15,Noise Complaint,Precinct 1,South East,ARREST
+5031,07/20/21,1:00,51,Theft,P3,NW,Arrest
+5032,06/03/2020,22:57,36,Assault,P-1,NW,Resolved
+5033,01/16/2022,9:56 AM,24,Assault,P-1,NE,ARREST
+5034,11-28-20,5:56,3,Burglary,P2,North East,arrest
+5035,12/07/23,8:22 AM,56,Traffic Stop,P2,NE,Arrest
+5036,09-13-23,6:25,,Theft,P3,SE,Arrest
+5037,08/24/2020,8:11,,Burglary,Precinct 2,South East,No Action
+5038,11/13/22,3:24,38,Noise Complaint,P4,NE,Resolved
+5039,06/02/2022,2:42,23,Burglary,P-2,North East,Report Taken
+5040,04/16/22,10:25,46,Assault,P-1,North East,resolved
+5041,01-27-23,0:19,15,Burglary,P2,SW,ARREST
+5042,12/13/20,21:05,34,Domestic Disturbance,P-2,NE,ARREST
+5043,02-11-21,4:01,,Burglary,P2,South East,resolved
+5044,03-29-22,7:09,,Burglary,P4,SW,Arrest
+5045,02-15-23,7:58,56,Theft,Precinct 2,SW,No Action
+5046,10/30/2022,13:53,60,Assault,P-2,NE,ARREST
+5047,07-29-23,8:49,51,Burglary,P-2,NE,Resolved
+5048,11/18/21,10:57,36,Domestic Disturbance,P2,North West,resolved
+5049,04-14-22,10:34,31,Theft,P1,South East,resolved
+5050,01/13/2020,11:19,56,Theft,P2,SW,arrest
+5051,07/12/2021,8:58 AM,23,Domestic Disturbance,P4,NW,resolved
+5052,04/27/23,18:42,43,Domestic Disturbance,P1,North East,resolved
+5053,11-01-21,6:29,50,Assault,P-2,North West,resolved
+5054,02/09/2020,1:15 AM,,Domestic Disturbance,P1,N.W.,arrest
+5055,09/15/2020,15:42,15,Traffic Stop,P-1,North West,ARREST
+5056,12-01-20,9:06,21,Domestic Disturbance,Precinct 1,NE,Arrest
+5057,11/28/2023,9:54,,Traffic Stop,P4,South East,Report Taken
+5058,01-28-22,6:40 AM,2,Assault,P-1,South East,arrest
+5059,12-04-22,20:17,60,Burglary,P-2,SE,ARREST
+5060,05/17/2021,2:17,17,Assault,Precinct 2,NW,resolved
+5061,10-27-21,5:31,24,Theft,P-2,NW,No Action
+5062,01/26/2021,2:15,48,Burglary,Precinct 3,SW,ARREST
+5063,02-05-20,2:18,16,Traffic Stop,Precinct 3,SE,resolved
+5064,02-01-23,10:22,31,Burglary,P2,SE,Arrest
+5065,01-02-23,22:11,49,Theft,P-2,North West,ARREST
+5066,02/01/2021,9:14,,Traffic Stop,P1,NW,No Action
+5067,08/21/21,22:08,50,Theft,P-2,SW,resolved
+5068,06/21/22,10:11,57,Assault,Precinct 3,North West,No Action
+5069,07/13/23,21:03,11,Noise Complaint,P4,South East,No Action
+5070,05-05-23,19:14,26,Theft,P3,North East,No Action
+5071,06/25/2023,1:39,49,Burglary,Precinct 1,N.W.,arrest
+5072,12/21/2020,17:04,28,Traffic Stop,P1,NE,Resolved
+5073,12-18-23,9:44,57,Burglary,P2,South East,Arrest
+5074,01/20/23,5:38 AM,11,Burglary,P-2,SW,Arrest
+5075,08-17-22,1:56 AM,19,Assault,Precinct 2,North East,Arrest
+5076,07/06/2020,7:43,,Theft,P1,N.W.,resolved
+5077,11/28/2022,20:28,13,Noise Complaint,Precinct 3,SE,resolved
+5078,11-13-21,10:42,56,Traffic Stop,P3,NW,resolved
+5079,06/29/2020,10:16,51,Noise Complaint,P4,SW,resolved
+5080,04/21/2020,6:33,50,Noise Complaint,P2,North East,No Action
+5081,09/25/20,9:28,,Theft,P2,N.W.,Resolved
+5082,02-02-23,0:35,,Burglary,P-1,SW,Report Taken
+5083,08-20-21,16:45,55,Theft,P-1,South East,arrest
+5084,05-12-23,16:47,,Assault,Precinct 2,North East,ARREST
+5085,01/06/20,9:46,39,Assault,Precinct 2,SE,No Action
+5086,01/17/2023,12:29,22,Assault,P1,SE,Report Taken
+5087,08-26-22,22:58,53,Domestic Disturbance,P4,SE,ARREST
+5088,07/24/2020,11:09 AM,,Noise Complaint,Precinct 3,North East,Resolved
+5089,06/30/2023,22:25,7,Assault,Precinct 2,SW,ARREST
+5090,01/13/23,1:39,17,Assault,Precinct 1,North West,resolved
+5091,12/06/20,22:19,3,Traffic Stop,P3,N.W.,arrest
+5092,12/23/22,7:39 AM,45,Burglary,P2,SW,No Action
+5093,10/20/2020,8:57 AM,18,Traffic Stop,P4,N.W.,Arrest
+5094,06-23-22,11:37,42,Domestic Disturbance,P3,SW,Arrest
+5095,04/30/21,12:36,38,Burglary,P3,North East,Arrest
+5096,03-05-23,21:49,60,Domestic Disturbance,Precinct 2,NE,Report Taken
+5097,01/24/2021,11:41 AM,45,Noise Complaint,P-2,SW,Arrest
+5098,04-01-23,11:46,7,Domestic Disturbance,P2,N.W.,ARREST
+5099,01-09-23,11:33,34,Assault,P-2,SE,ARREST
+5100,08/23/2020,14:04,16,Assault,P1,North East,No Action
+5101,09/10/2020,14:23,49,Burglary,Precinct 2,North West,Report Taken
+5102,04/23/2021,15:01,58,Noise Complaint,Precinct 3,North East,Report Taken
+5103,04/16/22,9:08 AM,21,Assault,Precinct 3,SE,Report Taken
+5104,11-27-23,17:26,39,Assault,P3,North East,Arrest
+5105,11/14/23,11:13,30,Traffic Stop,P4,SE,Arrest
+5106,03/26/22,8:12,54,Burglary,P1,NW,ARREST
+5107,11/14/2021,7:08,,Domestic Disturbance,P2,SE,ARREST
+5108,10/29/2020,19:00,19,Domestic Disturbance,Precinct 1,NW,arrest
+5109,01/31/20,1:08 AM,17,Burglary,P3,North West,Report Taken
+5110,05-10-20,15:28,,Theft,P1,North East,resolved
+5111,08/10/2023,12:58 AM,27,Assault,Precinct 1,North West,Resolved
+5112,05-30-23,4:04,19,Theft,P-2,SW,No Action
+5113,05-24-23,13:06,52,Domestic Disturbance,P3,SE,ARREST
+5114,07-17-22,12:26,22,Traffic Stop,P-1,SW,Arrest
+5115,07/05/20,2:05,8,Theft,P4,SE,Report Taken
+5116,09/07/2020,5:38 AM,50,Traffic Stop,Precinct 2,North West,No Action
+5117,11-05-22,6:09,,Traffic Stop,Precinct 1,North East,No Action
+5118,04/08/2021,13:54,,Burglary,P-2,NW,arrest
+5119,07/13/21,3:36 AM,60,Burglary,P3,North West,arrest
+5120,07-20-23,0:05,15,Domestic Disturbance,Precinct 2,North East,Report Taken
+5121,10/26/21,18:38,7,Noise Complaint,Precinct 1,North East,resolved
+5122,09/17/23,13:31,30,Noise Complaint,Precinct 2,South East,Arrest
+5123,08/03/21,21:43,33,Theft,P1,NW,arrest
+5124,09-09-21,8:47 AM,50,Assault,P-1,N.W.,resolved
+5125,12/26/22,22:14,37,Burglary,P1,South East,Arrest
+5126,07/30/2022,2:55,29,Traffic Stop,Precinct 1,South East,Arrest
+5127,10/27/21,5:51,31,Noise Complaint,P2,South East,No Action
+5128,03/31/22,16:05,57,Domestic Disturbance,Precinct 1,North West,No Action
+5129,11/10/22,5:12 AM,51,Domestic Disturbance,P-1,North West,arrest
+5130,07/10/2023,15:29,50,Theft,Precinct 2,SE,arrest
+5131,06/19/2022,9:04 AM,42,Traffic Stop,Precinct 3,SW,Arrest
+5132,04/26/2020,11:53,,Assault,Precinct 3,NW,resolved
+5133,03/16/23,20:12,22,Traffic Stop,Precinct 1,N.W.,Arrest
+5134,05-22-21,22:28,30,Traffic Stop,P3,South East,ARREST
+5135,11/23/21,21:38,52,Theft,P3,North East,Resolved
+5136,09-06-23,19:55,11,Burglary,P3,N.W.,No Action
+5137,12/22/23,2:19,26,Burglary,P4,North West,Report Taken
+5138,10/05/23,13:32,3,Traffic Stop,Precinct 3,NE,arrest
+5139,10/08/2020,4:04,,Burglary,P4,NW,Report Taken
+5140,11/20/21,19:08,40,Theft,P-1,SW,Arrest
+5141,04/21/2022,11:43,17,Domestic Disturbance,P4,NE,Resolved
+5142,08-18-22,6:23,30,Theft,P4,South East,arrest
+5143,02-12-21,19:08,5,Noise Complaint,P4,North West,Resolved
+5144,06-20-20,4:52 AM,30,Assault,Precinct 2,NW,resolved
+5145,04-19-20,12:32,,Traffic Stop,Precinct 1,SE,ARREST
+5146,10/26/2020,4:02,55,Burglary,Precinct 3,SW,No Action
+5147,01/11/2020,2:01,18,Theft,P4,South East,Arrest
+5148,08/13/2021,7:19,17,Assault,Precinct 1,North West,ARREST
+5149,10/20/2022,7:00 AM,3,Theft,Precinct 2,NE,No Action
+5150,05/03/22,5:42,7,Theft,P4,NW,resolved
+5151,08-20-22,1:40,,Traffic Stop,P2,North West,ARREST
+5152,04/06/2023,23:48,10,Burglary,P-1,SW,Report Taken
+5153,09/07/22,20:11,6,Noise Complaint,P2,NW,Resolved
+5154,09/27/21,16:25,36,Domestic Disturbance,P-2,SE,ARREST
+5155,04-07-20,20:21,9,Burglary,Precinct 3,South East,Resolved
+5156,01/17/21,15:44,25,Noise Complaint,P3,N.W.,No Action
+5157,08-24-21,10:06,22,Burglary,P3,N.W.,Report Taken
+5158,06/28/2022,11:28,48,Traffic Stop,P1,North West,Report Taken
+5159,07/29/23,10:43 AM,34,Assault,P1,N.W.,Arrest
+5160,04/28/2021,8:23 AM,,Traffic Stop,Precinct 3,North West,No Action
+5161,10/08/20,16:23,22,Noise Complaint,P-1,SW,No Action
+5162,03/03/22,17:07,18,Traffic Stop,Precinct 3,NE,Arrest
+5163,10/04/20,2:28,47,Traffic Stop,Precinct 2,North West,No Action
+5164,01-15-23,9:57,21,Noise Complaint,P2,N.W.,arrest
+5165,10/08/2022,2:04 AM,25,Traffic Stop,P3,SW,No Action
+5166,04/21/2022,8:43 AM,6,Theft,Precinct 2,N.W.,ARREST
+5167,02/03/2023,20:37,10,Noise Complaint,Precinct 1,N.W.,Resolved
+5168,12/03/20,5:20,16,Burglary,P4,North East,arrest
+5169,07/04/2023,9:39,36,Domestic Disturbance,P-1,SE,ARREST
+5170,02/28/2023,1:52,,Traffic Stop,P2,South East,No Action
+5171,08/01/2023,0:31,42,Assault,P2,South East,Resolved
+5172,07-17-22,2:44,30,Traffic Stop,P-1,SE,ARREST
+5173,10/15/2021,23:55,27,Traffic Stop,P2,SW,Arrest
+5174,07-01-21,14:15,8,Assault,P2,N.W.,ARREST
+5175,11-01-21,18:46,22,Assault,Precinct 3,North East,resolved
+5176,02/17/2020,2:25,34,Noise Complaint,P-2,SW,No Action
+5177,09-01-23,5:46 AM,,Traffic Stop,P3,SE,Arrest
+5178,03/31/22,1:36,14,Assault,P4,North East,ARREST
+5179,06-30-23,21:39,8,Traffic Stop,P4,SE,ARREST
+5180,10/22/20,12:21 AM,,Assault,P4,SW,arrest
+5181,05-26-23,16:08,22,Burglary,P-2,SE,No Action
+5182,11/09/22,17:31,21,Burglary,Precinct 1,South East,No Action
+5183,09-22-21,23:55,3,Theft,P2,NW,No Action
+5184,09/10/22,5:33,41,Domestic Disturbance,P1,North West,arrest
+5185,02-08-20,14:20,28,Theft,Precinct 3,NW,Report Taken
+5186,10/09/2020,16:13,44,Domestic Disturbance,Precinct 3,SE,No Action
+5187,12/26/2021,21:49,48,Domestic Disturbance,P-2,North East,arrest
+5188,09-01-21,9:45,47,Theft,P-2,North East,Arrest
+5189,03/20/23,21:34,59,Traffic Stop,Precinct 1,SE,resolved
+5190,09/05/2023,8:47,15,Domestic Disturbance,Precinct 1,NE,arrest
+5191,04/13/20,6:45 AM,35,Assault,Precinct 1,N.W.,Arrest
+5192,02-01-23,5:26,58,Traffic Stop,Precinct 2,North East,Report Taken
+5193,05/01/20,2:41,,Domestic Disturbance,P1,South East,ARREST
+5194,10/11/22,5:59,,Theft,Precinct 1,SE,Resolved
+5195,07/19/2022,20:34,35,Domestic Disturbance,Precinct 1,SE,arrest
+5196,07-28-22,20:16,13,Domestic Disturbance,P-1,South East,ARREST
+5197,05/25/22,16:20,,Assault,Precinct 2,NE,Arrest
+5198,06-18-21,12:15,50,Theft,P1,North East,Report Taken
+5199,01-06-22,11:32 AM,9,Burglary,P-2,North West,Report Taken
+5200,08/27/21,11:39,10,Theft,Precinct 2,South East,Report Taken
